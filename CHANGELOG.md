@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-26)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ce0db06`](https://github.com/stdlib-js/stdlib/commit/ce0db0686f8e0fb2c3c32df5a12058731aed3aa8) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`9f6d0db`](https://github.com/stdlib-js/stdlib/commit/9f6d0dbe9e83a3f8508af44f1fb9ab862a66b93a) - **feat:** add `stats/strided/dnanmin` _(by Aayush Khanna)_
 
 </details>
