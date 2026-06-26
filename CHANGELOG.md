@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-01)
+## Unreleased (2026-06-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ba7afec`](https://github.com/stdlib-js/stdlib/commit/ba7afec2a7f1435a3251f347873db6be1b1107ae) - **docs:** remove unused import [(#13142)](https://github.com/stdlib-js/stdlib/pull/13142) _(by Philipp Burckhardt)_
 -   [`2e01a60`](https://github.com/stdlib-js/stdlib/commit/2e01a608e7bf79369cedb902784df5527c764e74) - **bench:** refactor to use dynamic memory allocation in `stats/strided` [(#11700)](https://github.com/stdlib-js/stdlib/pull/11700) _(by Uday Kakade)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
@@ -26,10 +27,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 -   Uday Kakade
 -   anee3
 
